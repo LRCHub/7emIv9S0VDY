@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Stimulator",
+  "base_artist": "[Alexandros]",
+  "createdAt": "2026-03-05T13:28:41.609348Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jimmy Was a Stimulator",
+      "artist": "Scott Weiland",
+      "has_synced": true,
+      "path": "select/01_Jimmy_Was_a_Stimulator_Scott_Weiland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jimmy Was a Stimulator",
+      "artist": "Weiland, Scott",
+      "has_synced": true,
+      "path": "select/02_Jimmy_Was_a_Stimulator_Weiland,_Scott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stimulator",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/03_Stimulator_[Alexandros].txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stimulator (Premium V.I.P. Party 2017 live at Nippon Gaishi Hall)",
+      "artist": "[Alexandros]",
+      "has_synced": true,
+      "path": "select/04_Stimulator_(Premium_V.I.P._Party_2017_live_at_Nippon_Gaishi_Hall)_[Alexandros].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stimulator",
+      "artist": "Marina",
+      "has_synced": true,
+      "path": "select/05_Stimulator_Marina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stimulator",
+      "artist": "Stimulator",
+      "has_synced": false,
+      "path": "select/06_Stimulator_Stimulator.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "78 Stimulator",
+      "artist": "Stimulator",
+      "has_synced": false,
+      "path": "select/07_78_Stimulator_Stimulator.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stimulator",
+      "artist": "[Alexandros]",
+      "has_synced": false,
+      "path": "select/pl_01_Stimulator_[Alexandros].txt"
+    }
+  ]
+}
